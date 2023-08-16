@@ -3,11 +3,13 @@
 
 ## Dataset
 The breast MRI dataset contains 922 patients gathered in Duke Hospital from 1 January, 2000 to 23 March, 2014 with invasive breast cancer and available pre-operative MRI at [Duke Hospital](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/)
+
 It consists of :
-1.Demographic, clinical, pathology, treatment, outcomes, and genomic data
-2.Pre-operative dynamic contrast enhanced (DCE)-MRI
-3.Locations of lesions in DCE-MRI:
-4.Imaging features from DCE-MRI
+
+1. Demographic, clinical, pathology, treatment, outcomes, and genomic data
+2. Pre-operative dynamic contrast enhanced (DCE)-MRI
+3. Locations of lesions in DCE-MRI:
+4. Imaging features from DCE-MRI
 
 ## Task
 
