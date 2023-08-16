@@ -35,9 +35,9 @@ Install the requirements:
 ```bash
 pip install -r requirements.txt
 ```
- [Run the notebook](../blob/main/subtumor_CLASSIFICATION.ipynb)
+ [Run the notebook](../main/subtumor_CLASSIFICATION.ipynb)
 
 
 ## Resources
 
-- To learn more about this task, check out [presentation](../blob/main/docs/presentation.pptx)
+- To learn more about this task, check out [presentation](../main/docs/presentation.pptx)
